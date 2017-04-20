@@ -1599,11 +1599,11 @@
 	}
 
 		h2.alt {
-			color: #888;
+			color: green;
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: green;
 			}
 
 	h3 {
@@ -2183,7 +2183,7 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpeg");
+				background-image: url("../../images/banner.png");
 			}
 
 			#main > section.two {
