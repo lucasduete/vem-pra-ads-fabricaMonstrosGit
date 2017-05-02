@@ -48,6 +48,9 @@
 		-webkit-text-size-adjust: none;
 	}
 
+    
+
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1608,6 +1611,7 @@
 
 	h3 {
 		font-size: 1.5em;
+        text-align: center;
 	}
 
 	header {
@@ -1677,6 +1681,10 @@
 	br.clear {
 		clear: both;
 	}
+
+    .pCenter {
+        text-align: center;
+    }
 
 /* Sections/Article */
 
