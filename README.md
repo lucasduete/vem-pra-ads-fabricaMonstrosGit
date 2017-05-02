@@ -1,9 +1,9 @@
-Projeto Final da Disciplina de Gerência de Configuração e Mudanças
+# Projeto Final da Disciplina de Gerência de Configuração e Mudanças
 
-Time :
-   Fábrica de Monstros GIT
+### Time : Fábrica de Monstros GIT
 
-Integrantes: 
+### Integrantes: 
 
-  Lucas Monteiro
-  Flavio Henrique
+  * Lucas Monteiro;
+  * Flavio Henrique;
+  * Alisson;
