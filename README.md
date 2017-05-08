@@ -6,4 +6,3 @@
 
   * Lucas Monteiro;
   * Flavio Henrique;
-  * Alisson;
